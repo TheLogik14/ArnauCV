@@ -1,70 +1,12 @@
-# Getting Started with Create React App
+Characterize the final user: who will be the final user? What is he/she
+expected to find in your project?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The final Users will be the HR sources how select candidates to enter their company. In this webside they will find all my information to contact me and all the studies and expirience i have to fulfill the job. I also included some usful info about me as a person so they can see if i am the right person for the job.
 
-## Available Scripts
+Information architecture: In this websidw i just have a page but i have structured by id so with the navbar you can go exacly where you need. And i also used bootstrap so the web is resizable, to acpolish this i've used a bootstrap grid. i have also use react in this project so it's simpler to in prove it as i've made every part of it a component so if in the future i want to inprove it all i have to do is to implement other components and not remake it.
 
-In the project directory, you can run:
+Visual desing: For visuals i went to the black and white that allways works. To give it a touch i've used diferents svg to make it less boring in the contact part. The web is a 2x3 grid to emphasize the relevat part and i also make it asymetrical to seem more elegant. For inspiration i have used my own CV which i made some years ago to seek job, i think this desing is sober and clear with the info i want to transmit.
 
-### `npm start`
+Figma link:https: //www.figma.com/proto/iN5kpfSpQrs2pdMdvQe5qY?node-id=0-1&mode=design&t=Gn1gVZMXHspPFjvz-6
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Github Pages:  https://thelogik14.github.io/ArnauCV/
