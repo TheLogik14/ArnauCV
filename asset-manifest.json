@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ArnauCV/static/css/main.62d3213f.css",
+    "main.js": "/ArnauCV/static/js/main.5c36681a.js",
+    "static/js/787.bb8e7d8c.chunk.js": "/ArnauCV/static/js/787.bb8e7d8c.chunk.js",
+    "static/media/boton.svg": "/ArnauCV/static/media/boton.8d729f4dd7c5e305b7ec7a2a73c2f2ce.svg",
+    "static/media/logo.svg": "/ArnauCV/static/media/logo.145eb074c27ac02f75609b974a8b937f.svg",
+    "static/media/casa.svg": "/ArnauCV/static/media/casa.e7bc37dc2c175ee0fb75ed38e56ea05a.svg",
+    "static/media/llamada-telefonica.svg": "/ArnauCV/static/media/llamada-telefonica.d9a6fab5066bac992c538420cf1d8ef8.svg",
+    "static/media/email.svg": "/ArnauCV/static/media/email.b6de56133c1b346296e230d144fd3626.svg",
+    "static/media/User.svg": "/ArnauCV/static/media/User.b8428432db0267d9f94e70112e78d5e9.svg",
+    "index.html": "/ArnauCV/index.html",
+    "main.62d3213f.css.map": "/ArnauCV/static/css/main.62d3213f.css.map",
+    "main.5c36681a.js.map": "/ArnauCV/static/js/main.5c36681a.js.map",
+    "787.bb8e7d8c.chunk.js.map": "/ArnauCV/static/js/787.bb8e7d8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d3213f.css",
+    "static/js/main.5c36681a.js"
+  ]
+}
